@@ -93,42 +93,54 @@ graph TD
     F --> G[Final Decision]
 ```
 
+## Flow Charts 📊
+
+### Complete FET Flowchart
+   ![FET Flowchart](/screenshots/fet_screenshots/fet_flowchart.png)
+
+   _Visual representation of the complete FET system flow_
+
+### Appraisal Flowchart
+   ![Appraisal Flowchart](/screenshots/fet_screenshots/appraisal-system-flowchart.jpg)
+
+   _Detailed flow of the appraisal process within the FET system_
+
 ## Screenshots 📸
 
 ### Admin Interface 👨‍💼
 
 1. **Admin Dashboard**
-   ![Admin Dashboard](/public/fet_screenshots/admin_dashboard.png)
+   ![Admin Dashboard](/screenshots/fet_screenshots/admin_dashboard.png)
    _Comprehensive overview of system metrics and faculty statistics_
 
 2. **Profile Management**
-   ![Profile Management](/public/fet_screenshots/admin_profile.png)
+   ![Profile Management](/screenshots/fet_screenshots/admin_profile.png)
    _Faculty profile administration and verification interface_
 
 3. **Faculty Statistics**
-   ![Faculty Stats](/public/fet_screenshots/admin_faculty_leaderboard.png)
+   ![Faculty Stats](/screenshots/fet_screenshots/admin_faculty_leaderboard.png)
    _Detailed analytics and performance metrics visualization_
 
 ### Faculty Interface 👩‍🏫
 
 1. **Faculty Dashboard**
-   ![Faculty Dashboard](/public/fet_screenshots/fet_dashboard.png)
+   ![Faculty Dashboard](/screenshots/fet_screenshots/fet_dashboard.png)
    _Personalized overview of performance and achievements_
 
 2. **Profile Management**
-   ![Profile Management](/public/fet_screenshots/fet_profile.png)
+   ![Profile Management](/screenshots/fet_screenshots/fet_profile.png)
    _Self-service profile updates and ORCID integration_
 
 3. **Appraisal Form**
-   ![Appraisal Form](/public/fet_screenshots/faculty_appraisel.png)
+   ![Appraisal Form](/screenshots/fet_screenshots/faculty_appraisel.png)
    _Appraisal form for the faculty to fill for analytics_
 
 4. **Performance Analytics**
-   ![Analytics](/public/fet_screenshots/fet_analysis.png)
+   ![Analytics](/screenshots/fet_screenshots/fet_analysis.png)
    _Detailed performance insights and trend analysis_
 
 5. **Leaderboard**
-   ![Leaderboard](/public/fet_screenshots/fet_leaderboard.png)
+   ![Leaderboard](/screenshots/fet_screenshots/fet_leaderboard.png)
    _Gamified ranking system showcasing achievements_
 
 ## Feasibility Analysis 📊
